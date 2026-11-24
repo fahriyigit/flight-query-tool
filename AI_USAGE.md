@@ -1,34 +1,43 @@
 # AI Usage Disclosure
 
-<!--
-Fill in this file before you submit. Submissions without it are not graded.
-If you used no AI tools, delete everything below and write only:
-No AI tools were used.
--->
-
 ## Tools used
 
-- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot):
+- OpenAI ChatGPT
 
 ## Conversation links
 
-- Link 1:
-- Link 2:
+- To be added before submission.
 
 ## What I used them for
 
-- e.g. explaining argparse, debugging the date validation, generating test data
+- Understanding the assignment requirements.
+- Planning the project structure.
+- Assistance with Python implementation.
+- Understanding validation rules and edge cases.
+- Preparing terminal commands and testing instructions.
 
-## Which parts of the code were AI-generated or substantially AI-assisted
+## AI-assisted code
 
-| File | Function or part | How (generated / modified / explained) |
-| --- | --- | --- |
-|  |  |  |
+| File | Area of assistance |
+| --- | --- |
+| validator.py | Validation logic and implementation |
+| csv_loader.py | CSV processing and duplicate detection |
+| query.py | Filtering, sorting and query validation |
+| flight_parser.py | CLI, JSON handling and logging |
+
+ChatGPT contributed to code generation and implementation
+across these modules.
 
 ## Key prompts
 
-1.
-2.
+1. Help me understand the assignment requirements.
+2. Assist with implementing the required Python functions.
+3. Help with validation rules and error handling.
+4. Provide testing and debugging instructions.
 
 ## What I changed or verified myself
 
+I created the GitHub repository, uploaded the starter files,
+configured the development environment in GitHub Codespaces,
+executed the implementation commands, and verified that the
+Python files passed syntax checks.
